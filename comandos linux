@@ -1,0 +1,19 @@
+##comando basico linux
+
+mkdir (nome do diretorio) -  criar um diretorio (pasta).
+
+rm -  remove, excluir arquivo ou diretorio.
+
+cp -  comando copiar arquivo ou pasta.
+
+touc - criar arquivos.
+
+ls - lista arquivo dentro do diretorio.
+
+cd -  navega dentro do diretorio.
+
+sudo - usar super usuario.
+
+mv -  mover ou renomea.
+
+Esse foi alguns comando que ensinado no curso introdutorio de comando em linux na plataforma Digital innovention One.
